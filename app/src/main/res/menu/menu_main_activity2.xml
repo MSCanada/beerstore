@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="muhammadsuhail.login.MainActivity2">
+
+    <item android:id="@+id/pushdata" android:title="Save to DataBase"
+        android:icon="@drawable/store"
+        android:orderInCategory="100"  android:showAsAction="always" />
+    <item android:id="@+id/call" android:title="Call to Location"
+        android:icon="@drawable/phone"
+        android:orderInCategory="200"  android:showAsAction="always" />
+
+
+</menu>

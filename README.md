@@ -1,2 +1,2 @@
-# beerstore
-Android Application
+This android applicaton will allow you to browse through the List of Available wines,beer and liquor available throughout the world. Users will have their own account to save the details and view locations of the stores and place orders through calls.
+Application can also be accessed through a website http://msuhail.hostingsiteforfree.com/beerstore.html
